@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IoTPnP.GraphGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\IoT\\Code\\Azure-IoT-DigitalTwin-Libraries\\src\\Microsoft.Azure.IoT.DigitalTwin.Model\\Context\\v1\" \"C:\\IoT\\Code\\Azure-IoT-DigitalTwin-Libraries\\src\\Microsoft.Azure.IoT.DigitalTwin.Model\\Vocabulary\" \"C:\\IoT\\PnP\\DTDLGraph\""
+    }
+  }
+}
